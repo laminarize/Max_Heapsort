@@ -1,4 +1,4 @@
-# heapsort
+# MAX heapsort
 Max heapsort in Python. Input is unsorted array -> output is sorted array.
 
 Heapsort is written recursively to sink parents and bubble up largest values to position 0. 
