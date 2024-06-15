@@ -6,3 +6,6 @@ After this is complete the program pops the max value and appends it to newly cr
 
 Runtime complexity:
   O(n log(n))
+
+Code implementation of this video:
+https://www.youtube.com/watch?v=T1fwV0DWpEs&t=138s
